@@ -1,7 +1,7 @@
 # Aplicacion del clima - NodeApp
 
 
-### EMtodos para instalar e iniciar usar
+### Metodos para instalar e iniciar usar
 
 
 ```
